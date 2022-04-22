@@ -1,2 +1,2 @@
 # jenkins
-this is jenking java pipeline testing project.
+this is jenkins java pipeline testing project.
