@@ -1,4 +1,4 @@
-enkinsfile (Declarative Pipeline)
+
 pipeline {
     agent any 
     stages {
