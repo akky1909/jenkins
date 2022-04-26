@@ -1,10 +1,10 @@
+enkinsfile (Declarative Pipeline)
 pipeline {
-    agent any
-
+    agent any 
     stages {
-        stage('Hello') {
+        stage('Stage 1') {
             steps {
-                echo 'Hello World. this is jenkins build and it is running now..'
+                echo 'Hello world!' 
             }
         }
     }
